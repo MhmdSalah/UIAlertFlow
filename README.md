@@ -12,6 +12,10 @@
     <img src="https://img.shields.io/badge/UIKit-Only-2c3e50.svg" />
 </p>
 
+<p align="center">
+  <img src="Assets/example-showcase.gif" alt="UIAlertFlow example preview" width="320" />
+</p>
+
 UIAlertFlow is written for **UIKit**. It lets you present a clean paged sheet from any `UIViewController`, with support for list pages, image pages, video pages, paging indicators, configurable button labels, accent colors, and a dismiss callback.
 
 This package is inspired by the SwiftUI package [mykolaharmash/notelet.git](https://github.com/mykolaharmash/notelet.git).
